@@ -2,7 +2,7 @@
 Custom FPS System developed in **Unity**, using the Standard Render Pipeline.
 
 
-## Documentation:
+## Documentation
 
 The System uses five main C# scripts to implement the FPS System.
 
@@ -15,7 +15,7 @@ The System uses five main C# scripts to implement the FPS System.
 To have a quick look at the above scripts, you can view the contents of the 
 folder called '*Scipt Files - Quick View*'.
 
-- ### The 5-Level hierarchy of the FPS system:
+- ### The 5-Level hierarchy of the FPS system
 
   ![FPS_Player_Hierarchy](https://user-images.githubusercontent.com/67199656/200593510-5a139e97-dd14-4a63-94bc-1fe34fd1367f.png)
   
@@ -39,7 +39,7 @@ folder called '*Scipt Files - Quick View*'.
   
   Each weapon under the "*Weapons*" game object contains the *AutomaticGunScriptLPFP.cs* component attached to it, if the weapon happens to be a gun.
 
-## Screenshots:
+## Screenshots
 
 ![SS1](https://user-images.githubusercontent.com/67199656/200614045-4ae5a8d8-425a-4d3d-88cc-364c9ea8b539.png)
 
