@@ -1,0 +1,10 @@
+
+TO-DO LIST:
+
+- FPS CONTROLLER			- Check [V1]
+- SWITCHABLE WEAPONS		- Check [V1]
+- WEAPON RECOIL				- Check [V1]
+- WEAPON SWAY               - ...
+- WEAPON RAYCASTING         - ...
+- FLASHLIGHT                - ...
+
