@@ -15,7 +15,7 @@ The System uses five main C# scripts to implement the FPS System.
 To have a quick look at the above scripts, you can view the contents of the 
 folder called '*Scipt Files - Quick View*'.
 
-- ### The 5-Level hierarchy of the FPS system
+- ### The 5 levels of the FPS system
 
   ![FPS_Player_Hierarchy](https://user-images.githubusercontent.com/67199656/200593510-5a139e97-dd14-4a63-94bc-1fe34fd1367f.png)
   
